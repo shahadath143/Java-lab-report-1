@@ -1,0 +1,14 @@
+public class DataType {
+    public static void main(String[] args) {
+
+        int number = 10;
+        double price = 20.5;
+        char grade = 'A';
+        boolean pass = true;
+
+        System.out.println(number);
+        System.out.println(price);
+        System.out.println(grade);
+        System.out.println(pass);
+    }
+}
